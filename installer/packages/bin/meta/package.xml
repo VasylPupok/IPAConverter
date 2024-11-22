@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Package>
+    <DisplayName>Перекладач</DisplayName>
+    <ReleaseDate>2024-08-10</ReleaseDate>
+    <Name>All binaries for IFATranslator</Name>
+    <Operation name="Extract">
+        <Argument>data.rar</Argument>
+        <Argument>@TargetDir@\bin</Argument>
+    </Operation>
+    <Version>1.0.0</Version>
+</Package>

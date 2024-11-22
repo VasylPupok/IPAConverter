@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Installer>
+    <Name>Перекладач</Name>
+    <Version>1.0.0</Version>
+    <Title>Перекладач</Title>
+    <RunProgram>@TargetDir@/YourAppToRun</RunProgram>
+    <TargetDir>D:\installed\IFATranslator</TargetDir>
+    <Translations>
+        <Translation>ua.ts</Translation>
+    </Translations>
+</Installer>
